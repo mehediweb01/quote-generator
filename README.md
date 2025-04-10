@@ -1,12 +1,63 @@
-# React + Vite
+# Code by Mehedi 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Master Front-end Web Development with modern technologies like Tailwind CSS, React, and more!
 
-Currently, two official plugins are available:
+## 📌 Project: Quote Generator
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### ⚡ Technologies
 
-## Expanding the ESLint configuration
+- React.js
+- TailwindCSS (version 4)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Install react.js with vite
+
+> ```bash
+> npm create vite@latest quote-generator
+> cd quote-generator
+> npm install
+> npm run dev
+> ```
+
+---
+
+## Install Tailwind CSS (v4)
+
+> ```bash
+> npm install tailwindcss @tailwindcss/vite
+> ```
+
+> vite.config.js
+>
+> ```bash
+> import { defineConfig } from 'vite'
+> import tailwindcss from '@tailwindcss/vite'
+> export default defineConfig({
+>  plugins: [
+>    tailwindcss(),
+>  ],
+> })
+> ```
+
+> CSS
+>
+> ```bash
+> @import "tailwindcss";
+> ```
+
+> Run the project
+>
+> ```bash
+> npm run dev
+> ```
+
+## 🌟 Need a Custom Web Solution?
+
+I provide high-quality Front-end web development services. Check out my work and let’s build something great together!
+
+👉 [LinkedIn profile](https://www.linkedin.com/in/md-mehedi-hasan-90634424b/)
+
+👉 [View My Portfolio](https://mdmehedihasan.vercel.app/)
+
+let's turn your ideas into reality! Feel free to reach out. 😊
