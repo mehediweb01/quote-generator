@@ -60,4 +60,6 @@ I provide high-quality Front-end web development services. Check out my work and
 
 👉 [View My Portfolio](https://mdmehedihasan.vercel.app/)
 
+👉 [Live Preview](https://quote-generator-wheat-one.vercel.app/)
+
 let's turn your ideas into reality! Feel free to reach out. 😊
